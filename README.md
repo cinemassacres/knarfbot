@@ -2,7 +2,7 @@
 discord bot written in python
 <p align="center">
   <a href="https://discord.gg/88HW2GF8Nd">
-    <img alt="knarfbot" src="./main/docs/media/icon.png">
+ <img alt="docsify" src="./docs/media/icon.png">
   </a>
 </p>
 
