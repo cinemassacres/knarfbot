@@ -2,7 +2,7 @@
 discord bot written in python
 <p align="center">
   <a href="https://discord.gg/88HW2GF8Nd">
- <img alt="docsify" src="./docs/media/icon.pn">
+ <img alt="icon" src="./docs/media/icon.png">
   </a>
 </p>
 
