@@ -1,7 +1,7 @@
 # knarfbot
 discord bot written in python
 <p align="center">
-  <a href="https://www.twitch.tv/cinemassacres">
+  <a href="https://discord.gg/88HW2GF8Nd">
     <img alt="icon" src="./main/docs/media/icon.png">
   </a>
 </p>
