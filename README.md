@@ -1,5 +1,5 @@
 # knarfbot
-discord bot written in pythonhttps://github.com/cinemassacres/knarrfbot/blob/main/README.md
+discord bot written in python
 <p align="center">
   <a href="https://www.twitch.tv/cinemassacres">
     <img alt="icon" src="https://github.com/cinemassacres/knarrfbot/blob/main/docs/media/Icon.png">
