@@ -1,6 +1,6 @@
 # knarrfbot
 discord bot written in python
-
+ <img alt="icon" src="./docs/_media/icon.png">
 example of bot
 using better_profanity for removing words https://github.com/snguyenthanh/better_profanity
 command list
