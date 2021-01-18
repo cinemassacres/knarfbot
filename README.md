@@ -1,6 +1,11 @@
 # knarrfbot
 discord bot written in python
- <img alt="icon" src="./docs/_media/icon.png">
+<p align="center">
+  <a href="https://www.twitch.tv/cinemassacres">
+    <img alt="icon" src="./docs/_media/icon.png">
+  </a>
+</p>
+ 
 example of bot
 using better_profanity for removing words https://github.com/snguyenthanh/better_profanity
 command list
