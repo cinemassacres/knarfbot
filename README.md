@@ -2,7 +2,7 @@
 discord bot written in python
 <p align="center">
   <a href="https://www.twitch.tv/cinemassacres">
-    <img alt="icon" src="https://github.com/cinemassacres/knarrfbot/blob/main/docs/media/Icon.png">
+    <img alt="icon" src="main/docs/media/icon.png">
   </a>
 </p>
 
