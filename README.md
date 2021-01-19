@@ -7,7 +7,7 @@ discord bot written in python
 </p>
 
 ![discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square)
-
+https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square
 
 
 example of bot
