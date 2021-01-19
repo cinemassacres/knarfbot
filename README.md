@@ -28,4 +28,5 @@ word filtering that removes offending words and direct messages the user if they
 
 ## Links
 using better profanity https://github.com/snguyenthanh/better_profanity for cleaning swear words
+
 using https://github.com/sameerkumar18/useless-facts-api for facts
