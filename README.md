@@ -6,6 +6,8 @@ discord bot written in python
   </a>
 </p>
 
+my discord where you can test commands
+![my discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square)
 
 
 
