@@ -6,9 +6,6 @@ discord bot written in python
   </a>
 </p>
 
-## Links
-test
-
 
 
 
@@ -28,3 +25,7 @@ word filtering that removes offending words and direct messages the user if they
 
 
 ![example of bot](https://i.imgur.com/GeP3bGF.gif)
+
+## Links
+using better profanity https://github.com/snguyenthanh/better_profanity for cleaning swear words
+using https://github.com/sameerkumar18/useless-facts-api for facts
