@@ -6,6 +6,13 @@ discord bot written in python
   </a>
 </p>
 
+## Links
+test
+
+
+
+
+
 example of bot
 using better_profanity for removing words https://github.com/snguyenthanh/better_profanity
 command list
