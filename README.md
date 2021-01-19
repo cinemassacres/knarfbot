@@ -6,7 +6,7 @@ discord bot written in python
   </a>
 </p>
 
-![discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square)
+![Discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square)
 
 example of bot
 using better_profanity for removing words https://github.com/snguyenthanh/better_profanity
