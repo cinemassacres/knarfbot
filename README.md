@@ -5,7 +5,7 @@ discord bot written in python
  <img alt="icon" src="./docs/media/icon.png">
   </a>
 </p>
-  <a href="https://discord.gg/88HW2GF8Nd">
+
 ![Discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square)
 
 example of bot
