@@ -6,7 +6,7 @@ discord bot written in python
   </a>
 </p>
 
-![my discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-squar)
+![my discord](https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square)
 
 
 
