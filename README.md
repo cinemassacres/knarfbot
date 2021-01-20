@@ -15,7 +15,7 @@ discord bot written in python
 
 
 example of bot
-command list
+commands list can be found in the wiki
 
 !ban, bans the user, 
 
