@@ -26,12 +26,13 @@ command list
 word filtering that removes offending words and direct messages the user if they say that again there will be consequences. using better_profanity for removing words https://github.com/snguyenthanh/better_profanity
 
 
-
+# socials
+ <a href="https://twitter.com/KillerofTofu">
+<img alt="twitter"  src="https://img.shields.io/twitter/follow/KillerofTofu?style=social"></a>
 ![example of bot](https://i.imgur.com/GeP3bGF.gif)
 
 # Links
 using better profanity https://github.com/snguyenthanh/better_profanity for cleaning swear words
- <a href="https://twitter.com/KillerofTofu">
-<img alt="twitter"  src="https://img.shields.io/twitter/follow/KillerofTofu?style=social"></a>
+
 
 using https://github.com/sameerkumar18/useless-facts-api for facts
