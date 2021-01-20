@@ -7,8 +7,8 @@ discord bot written in python
 </p>
   <a href="https://discord.gg/88HW2GF8Nd">
  <img alt="Discord server"  src="https://img.shields.io/discord/170691335953580032?logo=discord&style=flat-square"></a>
-
-
+  <a href="https://twitter.com/KillerofTofu">
+<img alt="twitter"  src="https://img.shields.io/twitter/follow/KillerofTofu?style=social"></a>
 #
 
 
