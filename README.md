@@ -29,6 +29,7 @@ word filtering that removes offending words and direct messages the user if they
 # socials
  <a href="https://twitter.com/KillerofTofu">
 <img alt="twitter"  src="https://img.shields.io/twitter/follow/KillerofTofu?style=social"></a>
+
 ![example of bot](https://i.imgur.com/GeP3bGF.gif)
 
 # Links
